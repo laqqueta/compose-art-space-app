@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string-array name="title">
+        <item>Snowy Landascape</item>
+        <item>Snowy Tree</item>
+        <item>Floating Leaf</item>
+        <item>Full Moon in The Sky</item>
+        <item>A Cresent Moon</item>
+    </string-array>
+    <string-array name="desc">
+        <item>Christoper Noelte - 2024</item>
+        <item>Marcus Ganahi - 2024</item>
+        <item>Lena Polishko - 2023</item>
+        <item>Xavier Cee - 2023</item>
+        <item>Deep - 2022</item>
+    </string-array>
+</resources>

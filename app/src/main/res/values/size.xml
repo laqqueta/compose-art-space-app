@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">20dp</dimen>
+
+    <dimen name="head_spacer">100dp</dimen>
+    <dimen name="spacer">40dp</dimen>
+    <dimen name="spacer_button">10dp</dimen>
+
+    <dimen name="image_surface_elevation">20dp</dimen>
+    <dimen name="image_surface_shape_size">10dp</dimen>
+    <dimen name="image_surface_height">300dp</dimen>
+    <dimen name="image_box_size">300dp</dimen>
+    <dimen name="image_height">250dp</dimen>
+    <dimen name="image_width">225dp</dimen>
+
+    <dimen name="desc_surface_elevation">10dp</dimen>
+    <dimen name="desc_surface_shape_size">5dp</dimen>
+    <dimen name="desc_title_text_font_size">22sp</dimen>
+    <dimen name="desc_title_text_letter_spacing">2sp</dimen>
+</resources>
